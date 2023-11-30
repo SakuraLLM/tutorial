@@ -202,6 +202,8 @@ TODO
 
 6. 点击“测试Sakura”可以进行简单的测试。如果没有问题，则可以上传EPUB/TXT文件并点击“更新Sakura”开始翻译。
 
+7. 将API映射到公网：使用CF Tunnel将API监听的端口映射到CF，可以参考[这个教程](https://lxnchan.cn/cf-tunnel.html)或者[这个教程](https://zhuanlan.zhihu.com/p/621870045)。
+
 
 
 ## 可能遇到的问题
